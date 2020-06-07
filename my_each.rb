@@ -4,7 +4,8 @@ def my_each(array)
   while i < array.length 
   yield(array [i])
   i = i + 1 
-end end
+end 
+end
 
   hello (["4" "5" "6"]) do 
 
