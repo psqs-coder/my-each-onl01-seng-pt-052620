@@ -7,6 +7,6 @@ def my_each(array)
   end 
 end
 
-  hello (["4" "5" "6"]) do 
+
 
 
