@@ -1,4 +1,4 @@
-collection = ("4", "5", "6")
+collection = ("4" "5" "6")
 def my_each(array)
   i = 0 
   while i < array.length 
@@ -6,6 +6,6 @@ def my_each(array)
   i = i + 1 
 end end
 
-  hello (["4" "5" "6"]) do |
+  hello (["4" "5" "6"]) do 
 
 
