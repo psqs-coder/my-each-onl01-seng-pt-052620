@@ -1,5 +1,5 @@
 collection = ("arel" "jon" "logan" "spencer") 
-def my_each(tas) ta|
+def my_each(tas) 
   i = 0 
   while i < array.length 
   yield(array [i])
