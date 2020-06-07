@@ -1,5 +1,5 @@
 
-def (my_each(tas) do |ta|
+def 
   i = 0 
   while i < array.length 
   yield(array [i])
