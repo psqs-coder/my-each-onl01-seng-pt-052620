@@ -7,4 +7,4 @@ def my_each(array)
 end
 end
 
-hello
+hello ([''])
