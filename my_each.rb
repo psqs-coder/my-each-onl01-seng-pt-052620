@@ -7,7 +7,7 @@ def my_each(array)
 end
 end
 
-expect([1, 2, 3]).to match_array([2, 3, 1])
+
   
 
 
