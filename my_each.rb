@@ -7,7 +7,7 @@ def my_each(array)
 end
 end
 
-hello (['arel' , 'jon' , 'logan' , 'spencer']) do |
+hello (['arel' , 'jon' , 'logan' , 'spencer']) do 
   
 
 
