@@ -6,7 +6,7 @@ def my_each(tas) do |ta|
   i = i + 1 
 end end
 
-("arel" "jon" "logan" "spencer") 
+("arel" "jon" "logan" "spencer") do|
   
 
 
