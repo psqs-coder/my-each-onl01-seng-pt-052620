@@ -5,7 +5,7 @@ def my_each(array)
   yield(array [i])
   i = i + 1 
   end
-  ('arel', 'jon', 'logan', 'spencer')
+  [('arel', 'jon', 'logan', 'spencer')]
   
 end
 
