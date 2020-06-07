@@ -6,7 +6,7 @@ def my_each(array)
   i = i + 1 
 end end
 
- contain_exactly('arel', 'jon', 'logan', 'spencer')
+('arel', 'jon', 'logan', 'spencer')
   
 
 
